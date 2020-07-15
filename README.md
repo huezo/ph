@@ -54,8 +54,30 @@
 [https://huezo.gitlab.io/ph/ph-2.html](https://huezo.gitlab.io/ph/ph-2.html)
 
 
-# 
 ![PH](PH.png)
+
+
+# .
+
+### [https://huezo.github.io/ph/white.html](https://huezo.github.io/ph/white.html)
+
+
+### [https://huezo.github.io/ph/blanco.html](https://huezo.github.io/ph/blanco.html)
+
+
+[https://huezo.gitlab.io/ph/blanco.html](https://huezo.gitlab.io/ph/blanco.html)
+
+
+[https://huezo.gitlab.io/ph/white.html](https://huezo.gitlab.io/ph/white.html)
+
+
+
+![PHw.png](PHw.png)
+
+
+
+
+
 
 ## Mirror:
 
